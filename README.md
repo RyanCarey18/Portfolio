@@ -1,6 +1,5 @@
 # homework-02
 
-homework-02
 I have created a website that has a header with my name and a navigation bar.
 
 The navigation bar links down to each section of the website.
@@ -14,3 +13,4 @@ The Contact me section has a links to me phone,email, and github page, which all
 Once the page drops below 900px then the page becomes columned and makes it easier for mobile.
 
 Click [here](https://ryancarey18.github.io/homework-02/) to go to my Github Page
+
