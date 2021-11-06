@@ -43,6 +43,7 @@ h1 {
 .main-nav a {
   color: var(--color1);
   margin: 5px;
+  transition: all.2s;
 }
 
 .main-nav a:hover {
@@ -116,7 +117,7 @@ h1 {
   margin: 3px 0;
   width: 98.5%;
   position: relative;
-  filter: grayscale(100%);
+  filter: grayscale(75%);
 }
 
 .big-work:hover {
@@ -150,7 +151,7 @@ h1 {
   align-content: center;
   width: 49%;
   margin: 3px 0;
-  filter: grayscale(100%);
+  filter: grayscale(75%);
 }
 
 .contact-me {
