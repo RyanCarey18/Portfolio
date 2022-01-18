@@ -8,9 +8,9 @@ body {
 }
 
 :root {
-  --dark: rgb(95, 95, 95);
-  --color1: rgb(126, 171, 182);
-  --color2: rgb(240, 236, 222);
+  --dark: rgb(116, 113, 113);
+  --color1: rgb(119, 166, 179);
+  --color2: rgb(238, 240, 222);
 }
 h1 {
   color: var(--color2);
@@ -77,6 +77,10 @@ h1 {
 
 .class-body {
   flex: 5 0 250px;
+}
+
+.right-space {
+  flex: 1 0 100px;
 }
 
 .p-about-me {
