@@ -9,8 +9,8 @@ body {
 
 :root {
   --dark: rgb(116, 113, 113);
-  --color1: rgb(119, 166, 179);
-  --color2: rgb(238, 240, 222);
+  --color1: rgb(98, 161, 179);
+  --color2: rgb(253, 252, 242);
 }
 h1 {
   color: var(--color2);
