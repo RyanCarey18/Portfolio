@@ -2,7 +2,7 @@
 
 ## Link
 
-Click [here](https://ryancarey18.github.io/portfolio/) to go to my deployed page.
+Click [here](https://ryancarey18.github.io/Portfolio/) to go to my deployed page.
 
 ## Technologies Used
 
